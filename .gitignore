@@ -1,0 +1,5 @@
+# Project exclude paths
+/account-manager/target/
+/bank-api-service/target/
+/reporting-service/target/
+/user-notification-service/target/
